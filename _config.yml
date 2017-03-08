@@ -17,8 +17,8 @@ title: Web Standards Server Documentation
 email: michaelbrazell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   [Web Standards](http://web-standards.mathworks.com)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test/mmurray/web-standards-doc" # the subpath of your site, e.g. /blog
+url: "http://www-test1.mathworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
