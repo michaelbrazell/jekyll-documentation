@@ -75,10 +75,10 @@ Apache's configuration is located:
 The server uses MariaDB as the database, and the database is stored locally on the box (`localhost`).
 
 **MariaDB Information for WordPress**
-Host: localhost
-Username: Root
-Password: (Too Add)
-Database: webstandardsdb
+* **Host**: localhost
+* **Username**: Root
+* **Password**: (Too Add)
+* **Database**: webstandardsdb
 
 ### PhpMyAdmin configuration
 For security reasons, PhpMyAdmin is locked only to specific IPs within MW.  To add a new IP to the configuration:
